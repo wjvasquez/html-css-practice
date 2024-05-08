@@ -1,1 +1,1 @@
-# html-css-practice
+# HTML & CSS Practice Projects
