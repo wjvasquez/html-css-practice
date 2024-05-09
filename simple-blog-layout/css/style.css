@@ -45,7 +45,31 @@ main {
 
 main article {
   margin-bottom: 20px;
+  padding-bottom: 10px;
   border-bottom: 2px solid #003C43;
+}
+
+main article h1 {
+  margin-bottom: 10px;
+}
+
+main article p {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+.dunning-kruger-graph {
+  display: block;
+  margin: 15px auto;
+  width: 400px;
+  border: 1px solid black;
+}
+
+.cognitive-bias-picture {
+  display: block;
+  margin: 15px auto;
+  width: 400px;
+  border: 1px solid black;
 }
 
 footer {
